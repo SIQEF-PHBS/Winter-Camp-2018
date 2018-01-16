@@ -1,4 +1,4 @@
-# Shenzhen Winter Camp 2018
+# Winter Camp of Quantitative Economics, Shenzhen 2018
 
 The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition pursue a Ph.D. in Economics and Finance. 
 
