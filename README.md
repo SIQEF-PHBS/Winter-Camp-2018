@@ -85,7 +85,7 @@ Associate Professor
 Peking University School of Electronic and Computer Engineering 
 
 **Jun Nie**                                                
-Senior Economist 
+Senior Economist   
 Federal Reserve Bank of Kansas City
 
 **Thomas Sargent**                              
