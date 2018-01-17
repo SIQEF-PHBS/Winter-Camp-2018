@@ -45,7 +45,7 @@ Winter Camp are applied in real-life Economic research.
 
 Below is a summary schedule of the classes and major events of the Winter Camp.
 
-**Week 1**
+### Week 1
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
@@ -63,7 +63,7 @@ Below is a summary schedule of the classes and major events of the Winter Camp.
 |  January 28   | 09:00-12:00  | Pandas   | Natasha Watkins   |  PHBS RM513  |
 
 
-**Week 2**
+### Week 2
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
