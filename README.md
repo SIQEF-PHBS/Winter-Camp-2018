@@ -1,6 +1,6 @@
 # Winter Camp of Quantitative Economics, Shenzhen 2018
 
-The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition pursue a Ph.D. in Economics and Finance. 
+The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition to pursue a Ph.D. in Economics or related fields. 
 
 ## 1. Supporting Organizations
 
@@ -45,22 +45,31 @@ Winter Camp are applied in real-life Economic research.
 
 Below is a summary schedule for instructors and topics of the Winter Camp.
 
-**Week 1**
+** Week 1 **
 
-| Date | Day       | Instructor      | Topics                                     |
+|     Day    | Time | Event     | Instructor      | Venue                                     |
+| ---------- | ---- | --------- | --------------- | ------------------------------------------ |
+| January 22 | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+|            |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
+| January 23 |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|            |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
+|            |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
+|            |  15:00-18:00  | Team Project        |   |   PHBS Finance Lab RM513   |
+
+
+**Day 1: Tuesday, January 23**
+
+| Time | Event     | Instructor      | Venue                                     |
 | ---- | --------- | --------------- | ------------------------------------------ |
-| 1-23 | Tuesday   | Natasha Watkins | Introduction to Python and GitHub          |
-| 1-24 | Wednesday | Xianfeng Li     | Python basics: NumPy, Matplotlib           |
-| 1-25 | Thursday  | Xianfeng Li     | Python basics: SymPy and SciPy             |
-| 1-27 | Saturday  | Jake Zhao       | Python basics: OOP and dynamic programming |
-| 1-28 | Sunday    | Natasha Watkins | Python basics: Pandas                      |
+| 09:00-10:00 | Opening Ceremony   |  |    PHBS RM509   | 
+|  10:00-12:00  |  Python basics: Introduction to Python and GitHub      | Natasha Watkins  | PHBS Finance Lab RM513    |
+| 14:00-15:00 | Mini Lecture on Python | Thomas Sargent   | PHBS Finance Lab RM513         |
+| 15:00-18:00 | Team Project  |     | PHBS Finance Lab RM513             |
 
-**Week 2**
 
-| Date | Day       | Instructor      | Topics                                          |
-| ---- | --------- | --------------- | ----------------------------------------------- |
-| 1-29 | Monday    | John Stachurski | Dynamic stochastic models                       |
-| 1-30 | Tuesday   | John Stachurski | Asset pricing                                   |
-| 1-31 | Wednesday | John Stachurski | Asset pricing                                   |
-| 2-1  | Thursday  | Shenghao Zhu    | Inequality in macroeconomics                    |
-| 2-2  | Friday    | Jiao Shi        | Exchange rate models and exchange rate forecast |
+**Day 2: Wednesday, January 24**
+
+| Time | Event     | Instructor      | Venue                                     |
+| ---- | --------- | --------------- | ------------------------------------------ |
+|  09:00-12:00  |  Python basics: Numpy and Matplotlib      | Xianfeng Li  | PHBS Finance Lab RM513    |
+| 15:00-18:00 | Team Project  |     | PHBS Finance Lab RM513             |
