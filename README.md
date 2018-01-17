@@ -43,7 +43,7 @@ projects. Computer lab will remain open between 19:30PM to 22:00PM for students 
 Economists from various fields will talk about how the tools and methods we go over in the
 Winter Camp are applied in real-life Economic research.
 
-Below is a summary schedule for instructors and topics of the Winter Camp.
+Below is a summary schedule of the classes and major events of the Winter Camp.
 
 **Week 1**
 
@@ -52,30 +52,28 @@ Below is a summary schedule for instructors and topics of the Winter Camp.
 | January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
 |               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
 | January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|               |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
-|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
-|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM509  |
-|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM509  |
-|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM509  |
+|               |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM513  |
+|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM513  |
+|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM513  |
+|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM513  |
+|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM513  |
 |  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
 |               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
-|  January 27   | 09:00-12:00  | Python basics: Dynamic programming and OOP   | Jake Zhao  |  PHBS RM509  |
-|  January 28   | 09:00-12:00  | Python basics: Pandas   | Natasha Watkins   |  PHBS RM509  |
+|  January 27   | 09:00-12:00  | Python basics: Dynamic programming and OOP   | Jake Zhao  |  PHBS RM513  |
+|  January 28   | 09:00-12:00  | Python basics: Pandas   | Natasha Watkins   |  PHBS RM513  |
 
 
 **Week 2**
 
 |     Day       | Time | Event     | Instructor      | Venue                                     |
 | --------------| ------------- | --------- | --------------- | ------------------------------------------ |
-| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
-|               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|               |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
-|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
-|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM509  |
-|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM509  |
-|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM509  |
-|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
-|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
-|  January 27   | 09:00-12:00  | Python basics: Dynamic programming and OOP   | Jake Zhao  |  PHBS RM509  |
-|  January 28   | 09:00-12:00  | Python basics: Pandas   | Natasha Watkins   |  PHBS RM509  |
+|  January 29   | 09:00-12:00  | Economics: Dynamic stochastic models  | John Stachurski  |  PHBS RM513  |
+|               |  14:00-15:30  | A dialogue with Thomas Sargent      | Thomas Sargent  |  PHBS RM509  |
+| January 30    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
+|               |  14:00-15:30  |  Guest lecture   | Pengfei Wang  |  PHBS RM513  |
+| January 31    |  09:00-12:00  |  Economics: Asset pricing  |  John Stachurski  | PHBS RM513         |
+|  February 1   | 09:00-12:00  | Economics: Inequality        | Shenghao Zhu   |  PHBS RM513  |
+|  February 2    | 09:00-12:00  | Economics: Exchange rate forecast    |  Jiao Shi  | PHBS RM513  |    
+|               | 14:00-15:30  | Guest lecture      | Tao Zha |  PHBS RM513 |
+|  February 3   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
+
