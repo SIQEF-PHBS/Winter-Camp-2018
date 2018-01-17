@@ -78,3 +78,45 @@ Below is a summary schedule of the classes and major events of the Winter Camp.
 |               | 17:00-18:00  | Closing ceremony   |  |  PHBS RM509 |
 |  February 3   | 09:00-12:00  | Hotel Check-out   |   | AIILIFE Hotel Lobby  |
 
+
+## 3. Instructors and Speakers
+**Xianfeng Li**                                           
+Associate Professor                        
+Peking University School of Electronic and Computer Engineering 
+
+**Jun Nie**                                                
+Senior Economist 
+Federal Reserve Bank of Kansas City
+
+**Thomas Sargent**                              
+Professor at New York University                                        
+Director of Sargent Institute of Quantitative Economics and Finance 
+Peking University HSBC Business School
+
+**Jiao Shi**                                           
+Assistant Professor                          
+Peking University HSBC Business School
+
+**John Stachurski**                                 
+Professor at Research School of Economics         
+Australia National University
+
+**Pengfei Wang**
+Associate Professor                        
+School of Business and Management                                     
+The Hong Kong University of Science and Technology
+
+**Natasha Watkins**                               
+QuantEcon Early Career Researcher 
+
+**Tao Zha**                                              
+Research Executive Director  
+Federal Reserve Bank of Atlanta 
+
+**Jake Zhao**                                            
+Assistant Professor                          
+Peking University HSBC Business School
+
+**Shenghao Zhu**                                   
+Associate Professor                          
+School of Economics and Management, Beihang University
