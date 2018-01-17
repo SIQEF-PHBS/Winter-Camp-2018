@@ -45,31 +45,37 @@ Winter Camp are applied in real-life Economic research.
 
 Below is a summary schedule for instructors and topics of the Winter Camp.
 
-** Week 1 **
+**Week 1**
 
-|     Day    | Time | Event     | Instructor      | Venue                                     |
-| ---------- | ---- | --------- | --------------- | ------------------------------------------ |
-| January 22 | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
-|            |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
-| January 23 |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
-|            |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
-|            |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
-|            |  15:00-18:00  | Team Project        |   |   PHBS Finance Lab RM513   |
-
-
-**Day 1: Tuesday, January 23**
-
-| Time | Event     | Instructor      | Venue                                     |
-| ---- | --------- | --------------- | ------------------------------------------ |
-| 09:00-10:00 | Opening Ceremony   |  |    PHBS RM509   | 
-|  10:00-12:00  |  Python basics: Introduction to Python and GitHub      | Natasha Watkins  | PHBS Finance Lab RM513    |
-| 14:00-15:00 | Mini Lecture on Python | Thomas Sargent   | PHBS Finance Lab RM513         |
-| 15:00-18:00 | Team Project  |     | PHBS Finance Lab RM513             |
+|     Day       | Time | Event     | Instructor      | Venue                                     |
+| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
+| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+|               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
+| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|               |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
+|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
+|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM509  |
+|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM509  |
+|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM509  |
+|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
+|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
+|  January 27   | 09:00-12:00  | Python basics: Dynamic programming and OOP   | Jake Zhao  |  PHBS RM509  |
+|  January 28   | 09:00-12:00  | Python basics: Pandas   | Natasha Watkins   |  PHBS RM509  |
 
 
-**Day 2: Wednesday, January 24**
+**Week 2**
 
-| Time | Event     | Instructor      | Venue                                     |
-| ---- | --------- | --------------- | ------------------------------------------ |
-|  09:00-12:00  |  Python basics: Numpy and Matplotlib      | Xianfeng Li  | PHBS Finance Lab RM513    |
-| 15:00-18:00 | Team Project  |     | PHBS Finance Lab RM513             |
+|     Day       | Time | Event     | Instructor      | Venue                                     |
+| --------------| ------------- | --------- | --------------- | ------------------------------------------ |
+| January 22    | 09:00-15:00 | Registration   |  | PHBS Lobby          | 
+|               |  15:40  |    Depart to PHBS building       |   | AIILIFE Hotel Lobby          |
+| January 23    |  09:00-10:00  |   Opening Ceremony       |   | PHBS RM509         |
+|               |  10:00-12:00  |  Python basics: Introduction to Python and GitHub       | Natasha Watkins  |  PHBS RM509  |
+|               |  14:00-15:00  | Mini Lecture on Python       | Thomas Sargent  |  PHBS RM509  |
+|  January 24   | 09:00-12:00  |  Python basics: Numpy and Matplotlib    | Xianfeng Li  |  PHBS RM509  |
+|  January 25   | 09:00-12:00  | Python basics: SymPy and SciPy        | Xianfeng Li   |  PHBS RM509  |
+|               |  14:00-15:30  | Guest lecture      | Jun Nie  |  PHBS RM509  |
+|  January 26   | 09:00-12:00  | Company Visit     |    | PingAn Technology  |    
+|               | 13:00 - 16:30  | Museum Tour      |  |  Shenzhen Museum |
+|  January 27   | 09:00-12:00  | Python basics: Dynamic programming and OOP   | Jake Zhao  |  PHBS RM509  |
+|  January 28   | 09:00-12:00  | Python basics: Pandas   | Natasha Watkins   |  PHBS RM509  |
