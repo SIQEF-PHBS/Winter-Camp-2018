@@ -122,4 +122,9 @@ Associate Professor
 School of Economics and Management, Beihang University
 
 ## 4. Study resources
-For programming, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
+For programming and economics theory, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
+
+Books of programming recommended
+* Allen B. Downey, *Think Python*, O'Reilly Media, Inc.(2012)
+* Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013)
+* McKinney, Wes, *Python for Data Analysis*, O'Reilly Media, Inc. (2013)
