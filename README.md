@@ -1,6 +1,6 @@
 # Winter Camp of Quantitative Economics, Shenzhen 2018
 
-The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have the ambition to pursue a Ph.D. in Economics or related fields. 
+The 2018 Winter Camp of Quantitative Economics is hosted by Sargent Institute of Quantitative Economics and Finance (SIQEF) at Peking University HSBC Business School (PHBS). The Winter Camp is designed and organized by Professor Thomas Sargent. It intends to offer rigorous training in programming, math, and Economics to undergraduate students who have an ambition to pursue a Ph.D. in Economics or related fields. 
 
 ## 1. Supporting Organizations
 
@@ -27,7 +27,7 @@ To provide in-depth Chinese educational experiences with a global perspective, P
 
 ### [**QuantEcon**](https://quantecon.org/)
 
-QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
+QuantEcon is a NumFOCUS fiscally sponsored project dedicated to the development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome contributions and collaboration from the economics community and other partner organizations.
 
 
 
@@ -120,3 +120,6 @@ Peking University HSBC Business School
 **Shenghao Zhu**                                   
 Associate Professor                          
 School of Economics and Management, Beihang University
+
+## 4. Study resources
+For programming, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
