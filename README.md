@@ -121,7 +121,16 @@ Peking University HSBC Business School
 Associate Professor                          
 School of Economics and Management, Beihang University
 
-## 4. Study Resources
+## 5. Ph.D. Program in Quantitative Economics
+
+Starting from Fall 2018, PHBS will establish a state-of-the-art PhD program in quantitative economics focusing on foundations of economics and modern mathematical, statistical, and computer tools for putting those tools to work to analyze economic problems. The program is designed and organized by Professor Thomas Sargent.
+
+Audience: As students, we seek either (a) highly motivated students having undergraduate degrees that provide them with a solid foundation in undergraduate mathematics, probability, and statistics; or (b) recent graduates of good MA programs in economics and finance; or (c) in exceptional cases, smart undergraduates with weaker backgrounds in mathematics and statistics who are willing to do extra remedial work before starting the main courses for the PhD program.
+
+Philosophy: We shall teach mathematical and conceptual foundations of modern economics theory as well econometrics and statistics. Courses will begin by emphasizing tools because that is the most efficient way to create a powerful language for precisely formulating and criticizing economic ideas. After students acquire tools, important applications illustrating the power of economic theories and econometric methods will be presented. A typical first year PhD class will begin with virtually 100% tools, then over the course of the academic year gradually approach 50% tools and 50% applications.
+For more information, please check out our [PhD admission information](http://www.phbs.pku.edu.cn/2017/postgraduate_0905/4445.html).
+
+## 4. Some useful references
 For programming and economics theory, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
 
 Books of programming recommended
