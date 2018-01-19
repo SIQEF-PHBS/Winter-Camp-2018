@@ -102,8 +102,7 @@ Professor at Research School of Economics
 Australia National University
 
 **Pengfei Wang**
-Associate Professor                        
-School of Business and Management                                     
+Professor at Department of Economics                                                          
 The Hong Kong University of Science and Technology
 
 **Natasha Watkins**                               
