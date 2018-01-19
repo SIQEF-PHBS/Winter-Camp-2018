@@ -101,7 +101,7 @@ Peking University HSBC Business School
 Professor at Research School of Economics         
 Australia National University
 
-**Pengfei Wang**
+**Pengfei Wang**        
 Professor at Department of Economics                                                          
 The Hong Kong University of Science and Technology
 
