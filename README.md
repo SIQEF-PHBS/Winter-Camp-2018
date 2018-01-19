@@ -121,7 +121,7 @@ Peking University HSBC Business School
 Associate Professor                          
 School of Economics and Management, Beihang University
 
-## 4. Study resources
+## 4. Study Resources
 For programming and economics theory, the suggested reference which will be used in accordance to the winter camp is the Python section of Quantecon.org
 
 Books of programming recommended
